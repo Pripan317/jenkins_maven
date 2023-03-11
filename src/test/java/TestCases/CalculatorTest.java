@@ -38,19 +38,6 @@ public class CalculatorTest {
 		assertEquals("TC_Addition", 24,varResult_addition);
 	}
 
-	@Test
-	public void testSubstraction() {
-		assertTrue(true);
-	}
-
-	@Test
-	public void testMultiplication() {
-		assertTrue(true);
-	}
-
-	@Test
-	public void testDivision() {
-		assertTrue(true);
-	}
+	
 
 }
